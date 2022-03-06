@@ -1,0 +1,34 @@
+﻿ 
+
+Professional Summary 
+
+Having 4.2 years of experience in Software Testing. 
+
+Familiar with all phases of Software Development Life Cycle and Software Test Life Cycle. 
+
+Experience in Functional, Integration, Regression, User Acceptance, Smoke and System Level Testing. 
+
+Excellent experience with build tools like Maven and managing Selenium automation projects. 
+
+Experience in frameworks such as Cucumber, TestNG, Junit and Data Driven. 
+
+Experience in developing test cases based on requirements in JIRA. 
+
+Knowledge in analyzing bugs, interacting with the development team to fix the Bugs. Good Communication skills and exposure on Client handling at individual and Team level. 
+
+Worked in Waterfall and Agile Methodologies using scrum and Involved in Reviewing Test cases written by peers.  
+
+Good Self Learning Abilities and Problem-solving skills and ability to work individually, also as Versatile Team Player. 
+
+Executed automation scripts on different browsers/environments & reported defects results to the Scrum team. 
+
+
+ 
+
+ 
+
+ 
+
+
+ 
+
